@@ -2,7 +2,7 @@
 
 - 🔭 I'm not working on a project.
 - 🌱 I’m currently learning Java and Rust, and I'm about to start a new project, which is a huge GUI project based on Windows and Android.
-- 📫 How to reach me: [MaddyJace.qq](https://MaddyJace.vip.qq.com?utm_source=github_readme) <a href="https://x.com/ReturnWheat" rel="me">@MaddyJace</a> <a href="https://user.qzone.qq.com/2743063754" rel="me">@MaddyJace </href> 
+- 📫 How to reach me: [MaddyJace.qq](https://MaddyJace.vip.qq.com?utm_source=github_readme) <a href="https://x.com/ReturnWheat" rel="me">@MaddyJace</a> </href> 
 - 😄 Pronouns: Keep exploring the world.
 - ⚡ Fun fact: Never sleeps 💤
 <!--
