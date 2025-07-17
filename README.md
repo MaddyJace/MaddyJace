@@ -3,6 +3,14 @@
 - 📫 How to reach me: <a href="https://x.com/ReturnWheat" rel="me">@MaddyJace</a> </href> 
 - 😄 Pronouns: Keep exploring the world.
 - ⚡ Fun fact: Never sleeps 💤
+
+
+### Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-th3shadowbroker.vercel.app/api?username=MaddyJace&count_private=true&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-th3shadowbroker.vercel.app/api/top-langs/?username=MaddyJace&theme=dark&layout=compact&langs_count=6" />
+</div>
+
 <!--
 **MaddyJace/MaddyJace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
