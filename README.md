@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=MaddyJace.
 - 📫 How to reach me: <a href="https://x.com/ReturnWheat" rel="me">@MaddyJace</a> </href> 
 - 😄 Pronouns: Keep exploring the world.
 - ⚡ Fun fact: Never sleeps 💤
