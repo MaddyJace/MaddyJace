@@ -7,7 +7,7 @@
 
 ### Stats
 <p align="center">
-  <img src="https://github-readme-stats-th3shadowbroker.vercel.app/api?username=MaddyJace&count_private=true&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-th3shadowbroker.vercel.app/api?username=MaddyJace&count_private=true&show_icons=true&theme=dark" width="48%" />
   <img src="https://github-readme-stats-th3shadowbroker.vercel.app/api/top-langs/?username=MaddyJace&theme=dark&layout=compact&langs_count=6" width="48%" />
 </p>
 
