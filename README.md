@@ -1,5 +1,5 @@
 ### Hi there 👋
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=MaddyJace.
+
 - 📫 How to reach me: <a href="https://x.com/ReturnWheat" rel="me">@MaddyJace</a> </href> 
 - 😄 Pronouns: Keep exploring the world.
 - ⚡ Fun fact: Never sleeps 💤
@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats-th3shadowbroker.vercel.app/api/top-langs/?username=MaddyJace&theme=dark&layout=compact&langs_count=6" width="48%" />
 </p>
 
-
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=MaddyJace.
 <!--
 **MaddyJace/MaddyJace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
